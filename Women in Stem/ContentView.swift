@@ -20,7 +20,7 @@ struct ContentView: View {
                     .font(.title)
                     .fontWeight(.bold)
                 
-                Text("")
+                Text("nicole was here!!")
             }
             
       
